@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Xb7U3yRena7jGzf8sVldabAsd2nn4q1bJFjZOgtR1c5ynG2Zd6JBpiNSzciHFRlffYju+714cx+OfNlC9bTgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\OneDrive\\Documents\\CodingProjects\\MultiLayerPerceptron\\MultiLayerPerceptron\\MultiLayerPerceptron.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

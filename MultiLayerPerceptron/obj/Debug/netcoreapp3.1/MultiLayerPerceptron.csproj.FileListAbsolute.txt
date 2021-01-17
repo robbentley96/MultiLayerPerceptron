@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.exe
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.deps.json
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.runtimeconfig.json
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.runtimeconfig.dev.json
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.dll
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MultiLayerPerceptron.pdb
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.csproj.CopyComplete
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.dll
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.pdb
+C:\Users\rober\OneDrive\Documents\CodingProjects\MultiLayerPerceptron\MultiLayerPerceptron\obj\Debug\netcoreapp3.1\MultiLayerPerceptron.genruntimeconfig.cache
